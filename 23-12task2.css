@@ -1,0 +1,13 @@
+div{
+    text-align: center;
+    border:solid greenyellow 10px;
+    border-bottom: groove skyblue 10px;
+    border-top: inset pink 10px;
+    margin: 30px;
+    padding: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-width: 20px;
+    border-style: dashed;
+    border-color: aqua;
+}

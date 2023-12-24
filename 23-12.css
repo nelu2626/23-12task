@@ -1,0 +1,12 @@
+#d1:hover{
+    background-image: url(m1.png);
+}
+.d2:active{
+    background-image: url(m2.jpg);
+}
+
+input:focus{background-color: aqua;}
+a:link{
+    color: black;
+}
+    
